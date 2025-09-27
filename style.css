@@ -1,0 +1,38 @@
+button{
+    border-radius: 5px;
+    color: white;
+    background-color: orange;
+    padding: 10px 20px;
+}
+.main{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    gap:50px;
+    height: 100vh;
+    align-items: center;
+}
+.card{
+    width: 300px;
+    background-color: orange;
+    border-radius: 10px;
+}
+h4{
+    margin: 0px;
+    text-align: center;
+    color: bisque;
+}
+.grey{
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(66, 60, 60);
+}
+img{
+    height: 300px;
+    width: 100%;
+    border-radius: 20px;
+}
+p{
+    text-align: center;
+}
+
