@@ -50,17 +50,3 @@ body{
     padding-top: 100px;
     padding-bottom: 100px;
 }
-/* @media screen and (max-width:500px) {
-    body{
-        flex-direction: column;
-        align-items: center;
-    }
-    
-}
-@media (min-width:1000px) {
-     Cards{
-         flex-direction: column;
-        align-items: center;
-    
-     }
-} */
